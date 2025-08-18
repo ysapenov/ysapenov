@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hello! I'm Yera Sapenov</h1>
-<h3 align="center">Analytical Engineer | Data Analyst | AI Enthusiast</h3>
-<h3 align="center">From Kazakhstan 🇰🇿, currently living in the USA 🇺🇸
-From Kazakhstan 🇰🇿, currently living in the USA 🇺🇸</h3>
+<h3 align="center">Analytical Engineer | ML & AI Enthusiast</h3>
+<h3 align="center">From Kazakhstan <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f0-1f1ff.svg" width="18" alt="Kazakhstan flag" />
+, currently living in the USA <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="18" alt="US flag" />
+</h3>
 
 ### 🚀 Quick Overview
 
@@ -24,12 +25,12 @@ From Kazakhstan 🇰🇿, currently living in the USA 🇺🇸</h3>
 | Skill         | Level |
 |---------------|-------|
 | Power BI      | ⭐⭐⭐⭐⭐ |
-| Research      | ⭐⭐⭐☆☆ |
-| SQL           | ⭐⭐⭐☆☆ |
-| Python        | ⭐⭐☆☆☆ |
-| Azure         | ⭐⭐☆☆☆ |
-| dbt           | ⭐⭐☆☆☆ |
-| Snowflake     | ⭐⭐☆☆☆ |
+| Research      | ⭐⭐⭐✩✩ |
+| SQL           | ⭐⭐⭐✩✩ |
+| Python        | ⭐⭐✩✩✩ |
+| Azure         | ⭐⭐✩✩✩ |
+| dbt           | ⭐⭐✩✩✩ |
+| Snowflake     | ⭐⭐✩✩✩ |
 
 ### 🤝 Connect with Me
 
