@@ -1,17 +1,13 @@
 <h1 align="center">👋 Hello! I'm Yera Sapenov</h1>
 <h3 align="center">Analytical Engineer from Kazakhstan, currently based in the USA</h3>
 
-## Analytical Engineer | Power BI Developer | Data Scientist 
-
-I specialize in data analytics, business intelligence, and machine learning.
-
-### 🚀 Quick Overview
+## 🚀 Quick Overview
 
 - 🔭 Currently working on: Retail Analytics project
 - 🌱 Learning: AI and Machine Learning
 - 📫 Contact: ysapenov@gmail.com
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 
 5+ years of working with data, model and transform it into actionable insights. My expertise lies in:
 
@@ -21,7 +17,7 @@ I specialize in data analytics, business intelligence, and machine learning.
 - SQL and Database Management
 - Machine Learning and AI
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 - **Languages:** Python, SQL
 - **Data Analysis:** Pandas, Scikit-learn
@@ -29,7 +25,7 @@ I specialize in data analytics, business intelligence, and machine learning.
 - **Cloud:** Microsoft Azure
 - **Databases:** Microsoft SQL Server
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ysapenov-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ysapenov)
 [![Instagram](https://img.shields.io/badge/Instagram-ysapenov-purple?style=flat-square&logo=instagram)](https://instagram.com/ysapenov)
