@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello! I'm Yera Sapenov</h1>
 <h3 align="center">Analytical Engineer | Data Analyst | AI Enthusiast</h3>
-<h3 align="center">From Kazakhstan 🇰🇿, currently living in the USA 🇺🇸</h3>
+<h3 align="center">From Kazakhstan 🇰🇿, currently living in the USA 🇺🇸
+From Kazakhstan 🇰🇿, currently living in the USA 🇺🇸</h3>
 
 ### 🚀 Quick Overview
 
