@@ -14,13 +14,13 @@
 
 | Skill         | Level |
 |---------------|-------|
-| Power BI      | ★★★★★ |
-| SQL           | ★★★✩✩ |
-| Research      | ★★★✩✩ |
-| Python        | ★★✩✩✩ |
-| Azure         | ★★✩✩✩ |
-| dbt           | ★★✩✩✩ |
-| Snowflake     | ★★✩✩✩ |
+| Power BI      | 🟡🟡🟡🟡🟡 |
+| SQL           | 🟡🟡🟡⚪️⚪️ |
+| Research      | 🟡🟡🟡⚪️⚪️ |
+| Python        | 🟡🟡⚪️⚪️⚪️ |
+| Azure         | 🟡🟡⚪️⚪️⚪️ |
+| dbt           | 🟡🟡⚪️⚪️⚪️ |
+| Snowflake     | 🟡🟡⚪️⚪️⚪️ |
 
 ### 🤝 Connect with Me
 
