@@ -25,8 +25,8 @@
 | Skill         | Level |
 |---------------|-------|
 | Power BI      | ⭐⭐⭐⭐⭐ |
-| Research      | ⭐⭐⭐✩✩ |
 | SQL           | ⭐⭐⭐✩✩ |
+| Research      | ⭐⭐⭐✰✰ |
 | Python        | ⭐⭐✩✩✩ |
 | Azure         | ⭐⭐✩✩✩ |
 | dbt           | ⭐⭐✩✩✩ |
