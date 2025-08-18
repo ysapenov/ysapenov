@@ -10,16 +10,6 @@
 - 🌱 Learning: AI and Machine Learning
 - 📫 Contact: **ysapenov@gmail.com**
 
-### 💼 Professional Experience
-
-5+ years of working with data, model and transform it into actionable insights. My expertise lies in:
-
-- Data Analytics and Visualization
-- Business Intelligence
-- Power BI Development
-- SQL and Database Management
-- Machine Learning and AI
-
 ### 📊 Skills & Tools at a Glance
 
 | Skill         | Level |
